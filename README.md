@@ -1,5 +1,5 @@
 # hybridImages
-Assignment 1 Computational Photography Fall 2017
+Matlab Computational Photography
 https://photography-assign.appspot.com/hybrid.php
 
 Four   matlab   files   are   used
